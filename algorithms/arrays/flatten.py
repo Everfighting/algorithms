@@ -18,7 +18,7 @@ def flatten(input_arr, output_arr=None):
     return output_arr
 
 
-# returns iterator
+# return iterator
 def flatten_iter(iterable):
     """
     Takes as input multi dimensional iterable and
